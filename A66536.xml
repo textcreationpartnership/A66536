@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>O inhabitants of the earth, hear the Word of the Lord, his powerful Word, concerning his purpose and decree against the rulers and governours of this nation, and against the inhabitants thereof, who hath rejected the counsel of the Lord</title>
+            <author>Willer, Laurence.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66536</idno>
+            <idno type="STC">Wing W2882</idno>
+            <idno type="STC">ESTC R217173</idno>
+            <idno type="EEBO-CITATION">99828873</idno>
+            <idno type="PROQUEST">99828873</idno>
+            <idno type="VID">33306</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33306)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1962:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>O inhabitants of the earth, hear the Word of the Lord, his powerful Word, concerning his purpose and decree against the rulers and governours of this nation, and against the inhabitants thereof, who hath rejected the counsel of the Lord</title>
+                  <author>Willer, Laurence.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 3: Laurence Willyer.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the originals in the Bodleian Library (Early English books) and the British Library (Misc. Brit. tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Omnipotence --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:33306:1"/>
+            <!-- PDF PAGE 101 -->
+            <pb n="1" facs="tcp:33306:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 101 -->
+            <epigraph>
+               <q>
+                  <p>O Inhabitants of the earth, hear the Word of the Lord, his powerful Word, con<g ref="char:EOLhyphen"/>cerning his purpoſe and decree againſt the Rulers and Governours of this Nation, and againſt the Inhabitants thereof, who hath rejected the Counſel of the Lord.</p>
+               </q>
+            </epigraph>
+            <p>THus ſaith the Lord, foraſmuch as you the Ru<g ref="char:EOLhyphen"/>lers and Governors of this Nation, who hath rejected my counſel from time to time, and would none of my reproof, my purpoſe and decree is ſealed againſt you, and againſt the Inhabitants round about, and you ſhall not eſcape my righteous Judgements, for evil is gone forth and determined, and the word of the Lord ſhall ſtand faſt for ever againſt the wicked and ungodly, and they ſhall know of a truth that he is the rewarder of all ſuch as do wickedly before him, according to their evil deeds: and although I have ſent out my meſſengers from time to time, riſing up early, &amp; warning them, yet they have deſpiſed my meſſengers, and would none of my reproof, and ſome of them have they beat, and ſome have they ſtoned, and others caſt into priſon, ſo that they have grieved my righteous Spi<g ref="char:EOLhyphen"/>rit in exerciſing crueltie upon crueltie: And thus faith the Lord unto you again, I will ſtretch forth
+<pb n="2" facs="tcp:33306:2"/>
+               <!-- PDF PAGE 102 -->my hand over the whole Nation, againſt the Rulers and Governors thereof, and againſt the Inhabitants round about, and you ſhall feel my righteous judge<g ref="char:EOLhyphen"/>ments from the one end of the land to the other, for I will ſtrike them with a terrible ſtroke, to the ter<g ref="char:EOLhyphen"/>ror and amazement of the people round about, and my hand ſhall be heavie upon all the workers of iniquitie.</p>
+            <p>But unto you that fear my Name, ſhall the Sun of Righteouſneſs ariſe, with healing under his wings, and you ſhall be a fruitful people in the Land, and you ſhall be the rejoycing of many generations, that the ages to come ſhall ſay of a truth, you are the bleſſed of the Lord; and you ſhall be girded about with my ſtrength againſt all your enemies, and I will give you reſt and peace from all your enemies round about, for I am now coming forth to make a true ſeparation between the precious and the vile, between him that ſerveth me, and him that ſerveth me not; and I will make a difference between the ſheep and the goats, and my way ſhall be made plain and perfect before my ſons and daughters; and I will cauſe my glorie and my renown to go forth be<g ref="char:EOLhyphen"/>fore them, to the confounding of the heathen round about; and all the idol gods of the heathen, which they have worſhipped, ſhall be broken down, and I will ſcatter their idol ſhepherds, and all thoſe that have worſhipped in the high places with them; and my wonderful work ſhall be accompliſhed in this day of my power, to the confounding of the Inhabi<g ref="char:EOLhyphen"/>tants round about, for my work of righteouſneſſe ſhall take place in the middeſt of the Nation, and
+<pb n="3" facs="tcp:33306:2"/>
+               <!-- PDF PAGE 102 -->ſhall ſpread it ſelf to the outermoſt parts thereof; and I will crown my people with ſtrength in the midſt of the land, and they ſhall be the glorie of the Nations round abont, for my Standard of righte<g ref="char:EOLhyphen"/>ouſneſs ſhal be ſet up; and I will beautifie my people with wiſdome and ſtrength, that all the Nations round about ſhall bow down before them.</p>
+            <byline>Written from the Spirit of the Lord in and thorough his Servant, who is called by the name of <hi>Laurence Willyer.</hi>
+            </byline>
+         </div>
+         <div type="letter">
+            <head>A Letter to <hi>Oliver Cromwell,</hi> which was written to him about a month before his death.</head>
+            <opener>
+               <salute>Oliver Cromwell,</salute>
+            </opener>
+            <p>THis is the word of the Lord to thee, becauſe of unrighteouſneſs, iniquitie and oppreſſion, the Land mournes, for when the righteous beareth rule in it the land rejoyceth; but when the wicked beareth rule, the land mournes; and this is the word of the Lord to thee again, becauſe thou haſt boaſted thy ſelf in victories, and in thy ſtrength; and be<g ref="char:EOLhyphen"/>cauſe of this, thou haſt permitted and ſuffered ma<g ref="char:EOLhyphen"/>ny in this Nation to worſhip a thing of naught, and haſt cauſed them to bow down to idol gods, to wor<g ref="char:EOLhyphen"/>ſhip the works of their own hands, and thereby cau<g ref="char:EOLhyphen"/>ſed the people to erre; thou haſt greived the ſoul of the righteous with theſe abominations, therefore
+<pb n="4" facs="tcp:33306:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 103 -->the hand of the Lord is turned againſt thee, and thou ſhalt not eſcape his righteous judgements, for the decree is ſealed againſt thee, becauſe thou haſt refuſed my meſſengers from time to time, and wouldeſt none of my counſel; I will therefore ſtretch my hand over the whole Nation, againſt thee, and againſt the Rulers, and all people that hath rejected my counſel; and I will execute my purpoſe ſpeedilie upon the Inhabitants round a<g ref="char:EOLhyphen"/>bout; and I will chuſe unto me a people, that ſhall fear my Name, who ſhall govern the land in righ<g ref="char:EOLhyphen"/>teouſneſſe; as for your memorie, it ſhall rot and periſh from off the face of the earth; in this day of my power will I doe this, faith the Lord of Hoaſts.</p>
+            <closer>
+               <signed>L. W.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
